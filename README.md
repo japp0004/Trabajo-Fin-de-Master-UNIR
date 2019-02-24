@@ -1,4 +1,4 @@
-# Trabajo-Fin-de-Master-UNIR
+# Trabajo Fin de Master UNIR
 En el presente repositorio se encuentra el código fuente y los datos necesarios del algoritmo creado para la predicción o anticipación a la plaga mosca del olivo mediante el software Rstudio.
 
 # Los Script a ejecutar son los siguientes:
