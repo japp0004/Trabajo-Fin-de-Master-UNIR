@@ -14,6 +14,5 @@ Se calcula el modelo de predicción (entrenamiento, test, métricas...)
 
 Nota: todos los datos necesarios para la ejecución de los scripts están subidos a este repositorio.
 
-A continuación se realizará una breve explicación de los ficheros que hay subidos:
 
 
